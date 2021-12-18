@@ -1,6 +1,6 @@
 ### Microcontroller
 First of all, you'll need a microcontroller as the brains for your proto! Some good options are:
-* [esp32](https://www.aliexpress.com/item/32819907815.html) - (recommended) this is what I use, 240MHz dual core processor, built in bluetooth and wifi, plenty of ram and storage. If you want to run my code, you'll need this one or similar.
+* [esp32](https://www.aliexpress.com/item/32858054775.html) - (recommended) this is what I use, 240MHz dual core processor, built in bluetooth and wifi, plenty of ram and storage. If you want to run my code, you'll need this one or similar.
 * [Teensy](https://www.pjrc.com/teensy/) - super beefy specs, but no wifi. Honestly kind of overkill for just driving some matrices and led strips, but some people like them.
 * [Arduino nano](https://www.aliexpress.com/item/4000046641724.html) - simple, cheap, and 5v logic so no level shifters needed. Slow compared to the others, and not a lot of ram or storage. Still enough for simple code and storing a few faces.
 
